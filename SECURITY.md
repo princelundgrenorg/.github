@@ -25,8 +25,8 @@ Use one of these private channels instead:
    the maintainers can see the report, and we can use the same
    thread to coordinate a fix and publish a CVE if appropriate.
 
-2. **Email.** If you'd rather use email, send to the address
-   listed on the [maintainer's GitHub profile](https://github.com/princelundgren).
+2. **Email.** If you'd rather use email, send to
+   [contact@princelundgren.com](mailto:contact@princelundgren.com).
    Please include the affected app's name in the subject line so
    it doesn't get lost.
 

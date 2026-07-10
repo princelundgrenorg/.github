@@ -40,7 +40,6 @@ Code of Conduct may be temporarily or permanently banned.
 
 ## Reporting
 
-To report a Code of Conduct violation, contact the maintainer
-via the email listed on
-[their GitHub profile](https://github.com/princelundgren).
+To report a Code of Conduct violation, contact the maintainer at
+[contact@princelundgren.com](mailto:contact@princelundgren.com).
 Reports are treated confidentially.
