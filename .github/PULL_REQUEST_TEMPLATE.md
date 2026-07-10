@@ -26,7 +26,9 @@ now? -->
 
 <!-- How did you verify the change? -->
 
-- [ ] Project's test suite passes locally (`xcodebuild test …`)
+- [ ] Project's test suite passes locally, if this scheme has one
+      <!-- not every scheme in this org runs tests — some App Store
+      build targets have no test action configured -->
 - [ ] Built a release bundle and exercised the change end-to-end
 - [ ] Tested on relevant hardware / macOS version
       <!-- e.g. "MacBook Pro M3, macOS 26.1" -->
