@@ -24,7 +24,9 @@ If a repo has its own file at the same path, **that file wins**.
 GitHub doesn't merge or splice — it's all-or-nothing per file. So
 an app's own repo-specific `bug_report.yml` (with fields specific
 to that app) still applies there, but `SECURITY.md` and the PR
-template come from here unless a repo overrides them too.
+template come from here unless a repo overrides them too —
+PrinceMouse and PrinceLauncher, for example, each keep their own,
+more detailed SECURITY.md.
 
 ## Not inherited
 
