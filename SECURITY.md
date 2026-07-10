@@ -20,10 +20,10 @@ users have had a chance to update.
 Use one of these private channels instead:
 
 1. **GitHub Security Advisories** (preferred). On the affected repo,
-   open the Security tab and click "Report a vulnerability"
-   (`Settings → Security → Advisories → New draft security advisory`).
-   Only the maintainers can see the report, and we can use the
-   same thread to coordinate a fix and publish a CVE if appropriate.
+   open the **Security and quality** tab (or the "···" menu if you
+   don't see it directly) and click "Report a vulnerability". Only
+   the maintainers can see the report, and we can use the same
+   thread to coordinate a fix and publish a CVE if appropriate.
 
 2. **Email.** If you'd rather use email, send to the address
    listed on the [maintainer's GitHub profile](https://github.com/princelundgren).
